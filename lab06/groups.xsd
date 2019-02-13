@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Groups">
+		<xs:complexType>
+			<xs:sequence minOccurs="1" maxOccurs="unbounded">
+				<xs:element ref="Group" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Group">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Name" />
+				<xs:element minOccurs="0" maxOccurs="1" ref="Country" />
+			</xs:sequence>
+			<xs:attribute name="Id" type="xs:ID" use="required" />
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Name" type="xs:string" />
+	<xs:element name="Country" type="xs:string" />
+</xs:schema>
