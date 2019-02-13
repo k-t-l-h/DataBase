@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Lab01" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Lab01.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="LINQtoSQL.Properties.Settings" SettingsPropertyName="Lab01ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.AlbumDB" Member="AlbumDB">
+    <Type Name="AlbumDB">
+      <Column Name="AlbumID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="GroupID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AlbumYear" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AlbumName" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.GenreDB" Member="GenreDB">
+    <Type Name="GenreDB">
+      <Column Name="GenreID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="GenreName" Type="System.String" DbType="NChar(30) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.GroupDB" Member="GroupDB">
+    <Type Name="GroupDB">
+      <Column Name="GroupID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="GroupName" Type="System.String" DbType="NChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="GenreID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Country" Type="System.String" DbType="NChar(30) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TrackDB" Member="TrackDB">
+    <Type Name="TrackDB">
+      <Column Name="TrackID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TrackName" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AlbumID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Couriers[
+	<!ELEMENT Couriers (Courier)+>
+	<!ELEMENT Courier (Name,CurrentDelivery?)>
+	<!ATTLIST Courier Id ID #REQUIRED>
+	<!ELEMENT Name (#PCDATA)>
+	<!ELEMENT CurrentDelivery (#PCDATA)>
+]>
+
+<Couriers>
+<?refreshData daily?>
+<![CDATA[<?xml version="1.0"?>]]>
+  <Courier Id="1">
+    <Name>Artem Petrov</Name>
+    <CurrentDelivery>66</CurrentDelivery>
+  </Courier>
+  <Courier Id="2">
+    <Name>Artem Kuznetsov</Name>
+    <CurrentDelivery>4</CurrentDelivery>
+  </Courier>
+  <Courier Id="3">
+    <Name>Daniil Popov</Name>
+    <CurrentDelivery>26</CurrentDelivery>
+  </Courier>
+  <Courier Id="4">
+    <Name>Elena Petrova</Name>
+    <CurrentDelivery>44</CurrentDelivery>
+  </Courier>
+  <Courier Id="5">
+    <Name>Alexander Vasiliev</Name>
+    <CurrentDelivery>58</CurrentDelivery>
+  </Courier>
+  <Courier Id="6">
+    <Name>Maria Ivanova</Name>
+    <CurrentDelivery>7</CurrentDelivery>
+  </Courier>
+  <Courier Id="7">
+    <Name>Maxim Petrov</Name>
+    <CurrentDelivery>61</CurrentDelivery>
+  </Courier>
+  <Courier Id="8">
+    <Name>Anna Petrova</Name>
+    <CurrentDelivery>59</CurrentDelivery>
+  </Courier>
+  <Courier Id="9">
+    <Name>Mihail Vasiliev</Name>
+    <CurrentDelivery>6</CurrentDelivery>
+  </Courier>
+  <Courier Id="10">
+    <Name>Daria Volkova</Name>
+    <CurrentDelivery>23</CurrentDelivery>
+  </Courier>
+  <Courier Id="11">
+    <Name>Maria Petrova</Name>
+    <CurrentDelivery>34</CurrentDelivery>
+  </Courier>
+  <Courier Id="12">
+    <Name>Anna Mihailova</Name>
+    <CurrentDelivery>25</CurrentDelivery>
+  </Courier>
+  <Courier Id="13">
+    <Name>Igor Popov</Name>
+    <CurrentDelivery>32</CurrentDelivery>
+  </Courier>
+  <Courier Id="14">
+    <Name>Daria Morozova</Name>
+    <CurrentDelivery>15</CurrentDelivery>
+  </Courier>
+  <Courier Id="15">
+    <Name>Sophia Fedorova</Name>
+    <CurrentDelivery>40</CurrentDelivery>
+  </Courier>
+  <Courier Id="16">
+    <Name>Elena Petrova</Name>
+    <CurrentDelivery>70</CurrentDelivery>
+  </Courier>
+  <Courier Id="17">
+    <Name>Sophia Morozova</Name>
+    <CurrentDelivery>67</CurrentDelivery>
+  </Courier>
+  <Courier Id="18">
+    <Name>Alexander Popov</Name>
+    <CurrentDelivery>55</CurrentDelivery>
+  </Courier>
+  <Courier Id="19">
+    <Name>Daria Petrova</Name>
+    <CurrentDelivery>51</CurrentDelivery>
+  </Courier>
+  <Courier Id="20">
+    <Name>Elena Volkova</Name>
+    <CurrentDelivery>50</CurrentDelivery>
+  </Courier>
+  <Courier Id="21">
+    <Name>Igor Smirnov</Name>
+    <CurrentDelivery>46</CurrentDelivery>
+  </Courier>
+  <Courier Id="22">
+    <Name>Sophia Vasilieva</Name>
+    <CurrentDelivery>47</CurrentDelivery>
+  </Courier>
+  <Courier Id="23">
+    <Name>Maxim Ivanov</Name>
+    <CurrentDelivery>45</CurrentDelivery>
+  </Courier>
+  <Courier Id="24">
+    <Name>Mihail Novikov</Name>
+    <CurrentDelivery>35</CurrentDelivery>
+  </Courier>
+  <Courier Id="25">
+    <Name>Alexander Novikov</Name>
+    <CurrentDelivery>12</CurrentDelivery>
+  </Courier>
+  <Courier Id="26">
+    <Name>Alexander Sokolov</Name>
+    <CurrentDelivery>41</CurrentDelivery>
+  </Courier>
+  <Courier Id="27">
+    <Name>Maxim Kuznetsov</Name>
+    <CurrentDelivery>48</CurrentDelivery>
+  </Courier>
+  <Courier Id="28">
+    <Name>Sophia Novikova</Name>
+    <CurrentDelivery>18</CurrentDelivery>
+  </Courier>
+  <Courier Id="29">
+    <Name>Maria Volkova</Name>
+    <CurrentDelivery>53</CurrentDelivery>
+  </Courier>
+  <Courier Id="30">
+    <Name>Artem Petrov</Name>
+    <CurrentDelivery>36</CurrentDelivery>
+  </Courier>
+  <Courier Id="31">
+    <Name>Elena Morozova</Name>
+    <CurrentDelivery>60</CurrentDelivery>
+  </Courier>
+  <Courier Id="32">
+    <Name>Daniil Volkov</Name>
+    <CurrentDelivery>22</CurrentDelivery>
+  </Courier>
+  <Courier Id="33">
+    <Name>Daniil Mihailov</Name>
+    <CurrentDelivery>13</CurrentDelivery>
+  </Courier>
+  <Courier Id="34">
+    <Name>Alexander Ivanov</Name>
+    <CurrentDelivery>37</CurrentDelivery>
+  </Courier>
+  <Courier Id="35">
+    <Name>Maria Sokolova</Name>
+    <CurrentDelivery>28</CurrentDelivery>
+  </Courier>
+  <Courier Id="36">
+    <Name>Maxim Petrov</Name>
+    <CurrentDelivery>57</CurrentDelivery>
+  </Courier>
+  <Courier Id="37">
+    <Name>Igor Ivanov</Name>
+    <CurrentDelivery>10</CurrentDelivery>
+  </Courier>
+  <Courier Id="38">
+    <Name>Elena Vasilieva</Name>
+    <CurrentDelivery>16</CurrentDelivery>
+  </Courier>
+  <Courier Id="39">
+    <Name>Alexander Smirnov</Name>
+    <CurrentDelivery>69</CurrentDelivery>
+  </Courier>
+  <Courier Id="40">
+    <Name>Alexander Popov</Name>
+    <CurrentDelivery>11</CurrentDelivery>
+  </Courier>
+  <Courier Id="41">
+    <Name>Igor Ivanov</Name>
+    <CurrentDelivery>1</CurrentDelivery>
+  </Courier>
+  <Courier Id="42">
+    <Name>Maxim Morozov</Name>
+    <CurrentDelivery>52</CurrentDelivery>
+  </Courier>
+  <Courier Id="43">
+    <Name>Artem Mihailov</Name>
+    <CurrentDelivery>24</CurrentDelivery>
+  </Courier>
+  <Courier Id="44">
+    <Name>Mihail Volkov</Name>
+    <CurrentDelivery>14</CurrentDelivery>
+  </Courier>
+  <Courier Id="45">
+    <Name>Daria Novikova</Name>
+    <CurrentDelivery>33</CurrentDelivery>
+  </Courier>
+  <Courier Id="46">
+    <Name>Anastasiya Fedorova</Name>
+    <CurrentDelivery>5</CurrentDelivery>
+  </Courier>
+  <Courier Id="47">
+    <Name>Maxim Ivanov</Name>
+    <CurrentDelivery>56</CurrentDelivery>
+  </Courier>
+  <Courier Id="48">
+    <Name>Igor Kuznetsov</Name>
+    <CurrentDelivery>49</CurrentDelivery>
+  </Courier>
+  <Courier Id="49">
+    <Name>Daniil Smirnov</Name>
+    <CurrentDelivery>29</CurrentDelivery>
+  </Courier>
+  <Courier Id="50">
+    <Name>Daniil Morozov</Name>
+    <CurrentDelivery>20</CurrentDelivery>
+  </Courier>
+  <Courier Id="51">
+    <Name>Maxim Vasiliev</Name>
+    <CurrentDelivery>21</CurrentDelivery>
+  </Courier>
+  <Courier Id="52">
+    <Name>Artem Smirnov</Name>
+    <CurrentDelivery>68</CurrentDelivery>
+  </Courier>
+  <Courier Id="53">
+    <Name>Daniil Ivanov</Name>
+    <CurrentDelivery>2</CurrentDelivery>
+  </Courier>
+  <Courier Id="54">
+    <Name>Anna Petrova</Name>
+    <CurrentDelivery>54</CurrentDelivery>
+  </Courier>
+  <Courier Id="55">
+    <Name>Maxim Vasiliev</Name>
+    <CurrentDelivery>38</CurrentDelivery>
+  </Courier>
+  <Courier Id="56">
+    <Name>Igor Ivanov</Name>
+    <CurrentDelivery>17</CurrentDelivery>
+  </Courier>
+  <Courier Id="57">
+    <Name>Mihail Morozov</Name>
+    <CurrentDelivery>30</CurrentDelivery>
+  </Courier>
+  <Courier Id="58">
+    <Name>Artem Kuznetsov</Name>
+    <CurrentDelivery>43</CurrentDelivery>
+  </Courier>
+  <Courier Id="59">
+    <Name>Anna Kuznetsova</Name>
+    <CurrentDelivery>27</CurrentDelivery>
+  </Courier>
+  <Courier Id="60">
+    <Name>Igor Vasiliev</Name>
+    <CurrentDelivery>65</CurrentDelivery>
+  </Courier>
+  <Courier Id="61">
+    <Name>Igor Popov</Name>
+    <CurrentDelivery>9</CurrentDelivery>
+  </Courier>
+  <Courier Id="62">
+    <Name>Daniil Fedorov</Name>
+    <CurrentDelivery>63</CurrentDelivery>
+  </Courier>
+  <Courier Id="63">
+    <Name>Anna Sokolova</Name>
+    <CurrentDelivery>42</CurrentDelivery>
+  </Courier>
+  <Courier Id="64">
+    <Name>Mihail Volkov</Name>
+    <CurrentDelivery>64</CurrentDelivery>
+  </Courier>
+  <Courier Id="65">
+    <Name>Sophia Popova</Name>
+    <CurrentDelivery>3</CurrentDelivery>
+  </Courier>
+  <Courier Id="66">
+    <Name>Anastasiya Kuznetsova</Name>
+    <CurrentDelivery>8</CurrentDelivery>
+  </Courier>
+  <Courier Id="67">
+    <Name>Alexander Popov</Name>
+    <CurrentDelivery>19</CurrentDelivery>
+  </Courier>
+  <Courier Id="68">
+    <Name>Artem Ivanov</Name>
+    <CurrentDelivery>31</CurrentDelivery>
+  </Courier>
+  <Courier Id="69">
+    <Name>Anastasiya Morozova</Name>
+    <CurrentDelivery>39</CurrentDelivery>
+  </Courier>
+  <Courier Id="70">
+    <Name>Maxim Popov</Name>
+    <CurrentDelivery>62</CurrentDelivery>
+  </Courier>
+  <Courier Id="71">
+    <Name>Daniil Petrov</Name>
+  </Courier>
+  <Courier Id="72">
+    <Name>Anastasiya Volkova</Name>
+  </Courier>
+  <Courier Id="73">
+    <Name>Alexander Ivanov</Name>
+  </Courier>
+  <Courier Id="74">
+    <Name>Mihail Ivanov</Name>
+  </Courier>
+  <Courier Id="75">
+    <Name>Elena Mihailova</Name>
+  </Courier>
+  <Courier Id="76">
+    <Name>Daniil Smirnov</Name>
+  </Courier>
+  <Courier Id="77">
+    <Name>Maxim Popov</Name>
+  </Courier>
+  <Courier Id="78">
+    <Name>Mihail Novikov</Name>
+  </Courier>
+  <Courier Id="79">
+    <Name>Daria Novikova</Name>
+  </Courier>
+  <Courier Id="80">
+    <Name>Maxim Smirnov</Name>
+  </Courier>
+  <Courier Id="81">
+    <Name>Maxim Volkov</Name>
+  </Courier>
+  <Courier Id="82">
+    <Name>Maxim Vasiliev</Name>
+  </Courier>
+  <Courier Id="83">
+    <Name>Igor Kuznetsov</Name>
+  </Courier>
+  <Courier Id="84">
+    <Name>Daria Fedorova</Name>
+  </Courier>
+  <Courier Id="85">
+    <Name>Elena Novikova</Name>
+  </Courier>
+  <Courier Id="86">
+    <Name>Elena Ivanova</Name>
+  </Courier>
+  <Courier Id="87">
+    <Name>Artem Novikov</Name>
+  </Courier>
+  <Courier Id="88">
+    <Name>Maxim Vasiliev</Name>
+  </Courier>
+  <Courier Id="89">
+    <Name>Maria Volkova</Name>
+  </Courier>
+  <Courier Id="90">
+    <Name>Daniil Popov</Name>
+  </Courier>
+  <Courier Id="91">
+    <Name>Elena Petrova</Name>
+  </Courier>
+  <Courier Id="92">
+    <Name>Mihail Morozov</Name>
+  </Courier>
+  <Courier Id="93">
+    <Name>Igor Mihailov</Name>
+  </Courier>
+  <Courier Id="94">
+    <Name>Maria Fedorova</Name>
+  </Courier>
+  <Courier Id="95">
+    <Name>Maxim Smirnov</Name>
+  </Courier>
+  <Courier Id="96">
+    <Name>Anna Popova</Name>
+  </Courier>
+  <Courier Id="97">
+    <Name>Maxim Smirnov</Name>
+  </Courier>
+  <Courier Id="98">
+    <Name>Daniil Morozov</Name>
+  </Courier>
+  <Courier Id="99">
+    <Name>Elena Mihailova</Name>
+  </Courier>
+  <Courier Id="100">
+    <Name>Igor Fedorov</Name>
+  </Courier>
+</Couriers>
