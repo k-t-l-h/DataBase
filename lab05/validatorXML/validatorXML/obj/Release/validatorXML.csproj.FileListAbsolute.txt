@@ -1,0 +1,12 @@
+J:\SPDF\Bauman\DataBases\lab5\validatorXML\validatorXML\bin\Release\validatorXML.exe.config
+J:\SPDF\Bauman\DataBases\lab5\validatorXML\validatorXML\bin\Release\validatorXML.exe
+J:\SPDF\Bauman\DataBases\lab5\validatorXML\validatorXML\bin\Release\validatorXML.pdb
+J:\SPDF\Bauman\DataBases\lab5\validatorXML\validatorXML\obj\Release\validatorXML.csprojResolveAssemblyReference.cache
+J:\SPDF\Bauman\DataBases\lab5\validatorXML\validatorXML\obj\Release\validatorXML.exe
+J:\SPDF\Bauman\DataBases\lab5\validatorXML\validatorXML\obj\Release\validatorXML.pdb
+C:\Users\user\Desktop\labs\lab5\validatorXML\validatorXML\bin\Release\validatorXML.exe.config
+C:\Users\user\Desktop\labs\lab5\validatorXML\validatorXML\bin\Release\validatorXML.exe
+C:\Users\user\Desktop\labs\lab5\validatorXML\validatorXML\bin\Release\validatorXML.pdb
+C:\Users\user\Desktop\labs\lab5\validatorXML\validatorXML\obj\Release\validatorXML.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\labs\lab5\validatorXML\validatorXML\obj\Release\validatorXML.exe
+C:\Users\user\Desktop\labs\lab5\validatorXML\validatorXML\obj\Release\validatorXML.pdb

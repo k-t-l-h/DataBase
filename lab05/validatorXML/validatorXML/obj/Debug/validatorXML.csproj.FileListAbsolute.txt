@@ -1,0 +1,34 @@
+C:\Users\dvfir\Documents\3 курс\Базы данных\5\validatorXML\validatorXML\bin\Debug\validatorXML.exe.config
+C:\Users\dvfir\Documents\3 курс\Базы данных\5\validatorXML\validatorXML\bin\Debug\validatorXML.exe
+C:\Users\dvfir\Documents\3 курс\Базы данных\5\validatorXML\validatorXML\bin\Debug\validatorXML.pdb
+C:\Users\dvfir\Documents\3 курс\Базы данных\5\validatorXML\validatorXML\obj\Debug\validatorXML.csprojAssemblyReference.cache
+C:\Users\dvfir\Documents\3 курс\Базы данных\5\validatorXML\validatorXML\obj\Debug\validatorXML.csproj.CoreCompileInputs.cache
+C:\Users\dvfir\Documents\3 курс\Базы данных\5\validatorXML\validatorXML\obj\Debug\validatorXML.exe
+C:\Users\dvfir\Documents\3 курс\Базы данных\5\validatorXML\validatorXML\obj\Debug\validatorXML.pdb
+J:\SPDF\Bauman\DataBases\lab5\validatorXML\validatorXML\bin\Debug\validatorXML.exe.config
+J:\SPDF\Bauman\DataBases\lab5\validatorXML\validatorXML\obj\Debug\validatorXML.exe
+J:\SPDF\Bauman\DataBases\lab5\validatorXML\validatorXML\obj\Debug\validatorXML.pdb
+J:\SPDF\Bauman\DataBases\lab5\validatorXML\validatorXML\obj\Debug\validatorXML.csprojResolveAssemblyReference.cache
+J:\SPDF\Bauman\DataBases\lab5\validatorXML\validatorXML\bin\Debug\validatorXML.exe
+J:\SPDF\Bauman\DataBases\lab5\validatorXML\validatorXML\bin\Debug\validatorXML.pdb
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab5\validatorXML\validatorXML\bin\Debug\validatorXML.exe.config
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab5\validatorXML\validatorXML\bin\Debug\validatorXML.exe
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab5\validatorXML\validatorXML\bin\Debug\validatorXML.pdb
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab5\validatorXML\validatorXML\obj\Debug\validatorXML.csprojAssemblyReference.cache
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab5\validatorXML\validatorXML\obj\Debug\validatorXML.csproj.CoreCompileInputs.cache
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab5\validatorXML\validatorXML\obj\Debug\validatorXML.exe
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab5\validatorXML\validatorXML\obj\Debug\validatorXML.pdb
+C:\Users\user\Desktop\labs\lab5\validatorXML\validatorXML\bin\Debug\validatorXML.exe.config
+C:\Users\user\Desktop\labs\lab5\validatorXML\validatorXML\bin\Debug\validatorXML.exe
+C:\Users\user\Desktop\labs\lab5\validatorXML\validatorXML\bin\Debug\validatorXML.pdb
+C:\Users\user\Desktop\labs\lab5\validatorXML\validatorXML\obj\Debug\validatorXML.csprojAssemblyReference.cache
+C:\Users\user\Desktop\labs\lab5\validatorXML\validatorXML\obj\Debug\validatorXML.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\labs\lab5\validatorXML\validatorXML\obj\Debug\validatorXML.exe
+C:\Users\user\Desktop\labs\lab5\validatorXML\validatorXML\obj\Debug\validatorXML.pdb
+C:\Users\user\Desktop\5\Базы Данных\ЛБ5\validatorXML\validatorXML\bin\Debug\validatorXML.exe.config
+C:\Users\user\Desktop\5\Базы Данных\ЛБ5\validatorXML\validatorXML\bin\Debug\validatorXML.exe
+C:\Users\user\Desktop\5\Базы Данных\ЛБ5\validatorXML\validatorXML\bin\Debug\validatorXML.pdb
+C:\Users\user\Desktop\5\Базы Данных\ЛБ5\validatorXML\validatorXML\obj\Debug\validatorXML.csprojAssemblyReference.cache
+C:\Users\user\Desktop\5\Базы Данных\ЛБ5\validatorXML\validatorXML\obj\Debug\validatorXML.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\5\Базы Данных\ЛБ5\validatorXML\validatorXML\obj\Debug\validatorXML.exe
+C:\Users\user\Desktop\5\Базы Данных\ЛБ5\validatorXML\validatorXML\obj\Debug\validatorXML.pdb

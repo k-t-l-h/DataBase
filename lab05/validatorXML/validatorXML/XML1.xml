@@ -1,0 +1,104 @@
+﻿<GroupName>
+  <row GroupID="1" GroupName=" The Beatles                  " GenreID="18" Country="  Jamaica                     " />
+  <row GroupID="2" GroupName=" Bob Dylan                    " GenreID="28" Country=" Australia                    " />
+  <row GroupID="3" GroupName=" Elvis Presley                " GenreID="22" Country=" Ireland                      " />
+  <row GroupID="4" GroupName=" The Rolling Stones           " GenreID="21" Country=" Ireland                      " />
+  <row GroupID="5" GroupName=" Chuck Berry                  " GenreID="22" Country=" Great Britain                " />
+  <row GroupID="6" GroupName=" Jimi Hendrix                 " GenreID="27" Country=" Ireland                      " />
+  <row GroupID="7" GroupName=" James Brown                  " GenreID="30" Country=" Australia                    " />
+  <row GroupID="8" GroupName=" Little Richard               " GenreID="13" Country="  Jamaica                     " />
+  <row GroupID="9" GroupName=" Aretha Franklin              " GenreID="7" Country=" Japan                        " />
+  <row GroupID="10" GroupName=" Ray Charles                  " GenreID="10" Country=" Sweden                       " />
+  <row GroupID="11" GroupName=" Bob Marley                   " GenreID="7" Country=" Japan                        " />
+  <row GroupID="12" GroupName=" The Beach Boys               " GenreID="2" Country=" Japan                        " />
+  <row GroupID="13" GroupName=" Buddy Holly                  " GenreID="28" Country=" USA                          " />
+  <row GroupID="14" GroupName=" Led Zeppelin                 " GenreID="6" Country=" Sweden                       " />
+  <row GroupID="15" GroupName=" Stevie Wonder                " GenreID="34" Country=" Ireland                      " />
+  <row GroupID="16" GroupName=" Sam Cooke                    " GenreID="20" Country=" Sweden                       " />
+  <row GroupID="17" GroupName=" Muddy Watters                " GenreID="22" Country=" Japan                        " />
+  <row GroupID="18" GroupName=" Marvin Gaye                  " GenreID="30" Country="  Jamaica                     " />
+  <row GroupID="19" GroupName=" The Velvet Underground       " GenreID="3" Country=" Australia                    " />
+  <row GroupID="20" GroupName=" Bo Diddley                   " GenreID="25" Country=" Ireland                      " />
+  <row GroupID="21" GroupName=" Otis Redding                 " GenreID="16" Country=" Canada                       " />
+  <row GroupID="22" GroupName=" U2                           " GenreID="24" Country=" Sweden                       " />
+  <row GroupID="23" GroupName=" Bruce Springsteen            " GenreID="3" Country="  Jamaica                     " />
+  <row GroupID="24" GroupName=" Jerry Lee Lewis              " GenreID="11" Country=" Great Britain                " />
+  <row GroupID="25" GroupName=" Fats Domino                  " GenreID="16" Country="  Jamaica                     " />
+  <row GroupID="26" GroupName=" Ramones                      " GenreID="21" Country=" Sweden                       " />
+  <row GroupID="27" GroupName=" Nirvana                      " GenreID="19" Country="  Jamaica                     " />
+  <row GroupID="28" GroupName=" Prince                       " GenreID="19" Country=" Australia                    " />
+  <row GroupID="29" GroupName=" The Who                      " GenreID="25" Country=" Great Britain                " />
+  <row GroupID="30" GroupName=" The Clash                    " GenreID="3" Country=" Australia                    " />
+  <row GroupID="31" GroupName=" Johnny Cash                  " GenreID="34" Country="  Jamaica                     " />
+  <row GroupID="32" GroupName=" Smokey Robinson              " GenreID="32" Country=" Great Britain                " />
+  <row GroupID="33" GroupName=" The Everly Brothers          " GenreID="5" Country=" Japan                        " />
+  <row GroupID="34" GroupName=" Neil Young                   " GenreID="5" Country=" Australia                    " />
+  <row GroupID="35" GroupName=" Michael Jackson              " GenreID="10" Country=" Sweden                       " />
+  <row GroupID="36" GroupName=" Madonna                      " GenreID="5" Country="  Jamaica                     " />
+  <row GroupID="37" GroupName=" Roy Orbison                  " GenreID="8" Country="  Jamaica                     " />
+  <row GroupID="38" GroupName=" John Lennon                  " GenreID="9" Country=" Ireland                      " />
+  <row GroupID="39" GroupName=" David Bowie                  " GenreID="31" Country=" Sweden                       " />
+  <row GroupID="40" GroupName=" Simon and Garfunkel          " GenreID="23" Country=" Australia                    " />
+  <row GroupID="41" GroupName=" The Doors                    " GenreID="1" Country=" Sweden                       " />
+  <row GroupID="42" GroupName=" Van Morrison                 " GenreID="31" Country=" Australia                    " />
+  <row GroupID="43" GroupName=" Sly and the Family Stone     " GenreID="33" Country=" Japan                        " />
+  <row GroupID="44" GroupName=" Public Enemy                 " GenreID="4" Country=" Ireland                      " />
+  <row GroupID="45" GroupName=" The Byrds                    " GenreID="23" Country=" Great Britain                " />
+  <row GroupID="46" GroupName=" Janis Joplin                 " GenreID="22" Country=" Japan                        " />
+  <row GroupID="47" GroupName=" Patti Smith                  " GenreID="17" Country="  Jamaica                     " />
+  <row GroupID="48" GroupName=" Run-DMC                      " GenreID="12" Country=" Australia                    " />
+  <row GroupID="49" GroupName=" Elton John                   " GenreID="19" Country=" Canada                       " />
+  <row GroupID="50" GroupName=" The Band                     " GenreID="5" Country=" USA                          " />
+  <row GroupID="51" GroupName=" Pink Floyd                   " GenreID="14" Country=" Australia                    " />
+  <row GroupID="52" GroupName=" Queen                        " GenreID="13" Country=" Sweden                       " />
+  <row GroupID="53" GroupName=" The Allman Brothers Band     " GenreID="17" Country=" USA                          " />
+  <row GroupID="54" GroupName=" Howlin' Wolf                 " GenreID="15" Country=" Great Britain                " />
+  <row GroupID="55" GroupName=" Eric Clapton                 " GenreID="27" Country=" Ireland                      " />
+  <row GroupID="56" GroupName=" Dr. Dre                      " GenreID="33" Country=" Australia                    " />
+  <row GroupID="57" GroupName=" The Grateful Dead            " GenreID="24" Country=" Japan                        " />
+  <row GroupID="58" GroupName=" Parliament/Funkadelic        " GenreID="19" Country=" Japan                        " />
+  <row GroupID="59" GroupName=" Aerosmith                    " GenreID="7" Country=" Great Britain                " />
+  <row GroupID="60" GroupName=" The Sex Pistols              " GenreID="28" Country=" Ireland                      " />
+  <row GroupID="61" GroupName=" Metallica                    " GenreID="31" Country=" Australia                    " />
+  <row GroupID="62" GroupName=" Joni Mitchell                " GenreID="22" Country=" Sweden                       " />
+  <row GroupID="63" GroupName=" Tina Turner                  " GenreID="5" Country="  Jamaica                     " />
+  <row GroupID="64" GroupName=" Phil Spector                 " GenreID="30" Country=" USA                          " />
+  <row GroupID="65" GroupName=" The Kinks                    " GenreID="11" Country=" Great Britain                " />
+  <row GroupID="66" GroupName=" Al Green                     " GenreID="25" Country="  Jamaica                     " />
+  <row GroupID="67" GroupName=" Cream                        " GenreID="14" Country=" Australia                    " />
+  <row GroupID="68" GroupName=" The Temptations              " GenreID="23" Country=" Japan                        " />
+  <row GroupID="69" GroupName=" Jackie Wilson                " GenreID="20" Country=" Japan                        " />
+  <row GroupID="70" GroupName=" The Police                   " GenreID="22" Country="  Jamaica                     " />
+  <row GroupID="71" GroupName=" Frank Zappa                  " GenreID="9" Country=" USA                          " />
+  <row GroupID="72" GroupName=" AC/DC                        " GenreID="21" Country=" Great Britain                " />
+  <row GroupID="73" GroupName=" Radiohead                    " GenreID="11" Country="  Jamaica                     " />
+  <row GroupID="74" GroupName=" Hank Williams                " GenreID="33" Country=" Great Britain                " />
+  <row GroupID="75" GroupName=" The Eagles                   " GenreID="7" Country="  Jamaica                     " />
+  <row GroupID="76" GroupName=" The Shirelles                " GenreID="32" Country="  Jamaica                     " />
+  <row GroupID="77" GroupName=" Beastie Boys                 " GenreID="17" Country=" Japan                        " />
+  <row GroupID="78" GroupName=" The Stooges                  " GenreID="7" Country=" Great Britain                " />
+  <row GroupID="79" GroupName=" The Four Tops                " GenreID="16" Country=" Canada                       " />
+  <row GroupID="80" GroupName=" Elvis Costello               " GenreID="1" Country=" Sweden                       " />
+  <row GroupID="81" GroupName=" The Drifters                 " GenreID="5" Country=" Canada                       " />
+  <row GroupID="82" GroupName=" Creedence Clearwater Revival " GenreID="22" Country=" Ireland                      " />
+  <row GroupID="83" GroupName=" Eminem                       " GenreID="13" Country=" USA                          " />
+  <row GroupID="84" GroupName=" James Taylor                 " GenreID="17" Country=" Japan                        " />
+  <row GroupID="85" GroupName=" Black Sabbath                " GenreID="24" Country=" Canada                       " />
+  <row GroupID="86" GroupName=" 2Pac                         " GenreID="2" Country=" Japan                        " />
+  <row GroupID="87" GroupName=" Gram Parsons                 " GenreID="11" Country=" Sweden                       " />
+  <row GroupID="88" GroupName=" Jay-Z                        " GenreID="5" Country=" Ireland                      " />
+  <row GroupID="89" GroupName=" The Yardbirds                " GenreID="2" Country=" Sweden                       " />
+  <row GroupID="90" GroupName=" Carlos Santana               " GenreID="27" Country=" USA                          " />
+  <row GroupID="91" GroupName=" Tom Petty                    " GenreID="13" Country=" Australia                    " />
+  <row GroupID="92" GroupName=" Guns NТ Roses                " GenreID="7" Country=" Ireland                      " />
+  <row GroupID="93" GroupName=" Booker T. and the MGТs       " GenreID="8" Country=" Canada                       " />
+  <row GroupID="94" GroupName=" Nine Inch Nails              " GenreID="16" Country=" Canada                       " />
+  <row GroupID="95" GroupName=" Lynyrd Skynyrd               " GenreID="13" Country=" USA                          " />
+  <row GroupID="96" GroupName=" Diana Ross and the Supremes  " GenreID="34" Country=" Japan                        " />
+  <row GroupID="97" GroupName=" R.E.M.                       " GenreID="17" Country=" Australia                    " />
+  <row GroupID="98" GroupName=" Curtis Mayfield              " GenreID="3" Country=" Sweden                       " />
+  <row GroupID="99" GroupName=" Carl Perkins                 " GenreID="33" Country=" Australia                    " />
+  <row GroupID="100" GroupName=" Talking Heads                " GenreID="1" Country=" Ireland                      " />
+  <row GroupID="1000" GroupName="Wow                           " GenreID="35" Country="Russia                        " />
+  <row GroupID="1010" GroupName="Wow                           " GenreID="35" Country="Russia                        " />
+</GroupName>
