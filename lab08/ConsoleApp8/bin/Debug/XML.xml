@@ -1,0 +1,591 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <GroupDB>
+    <GroupID>1</GroupID>
+    <GroupName> The Beatles                  </GroupName>
+    <GenreID>18</GenreID>
+    <Country>  Jamaica                     </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>2</GroupID>
+    <GroupName> Bob Dylan                    </GroupName>
+    <GenreID>28</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>3</GroupID>
+    <GroupName> Elvis Presley                </GroupName>
+    <GenreID>22</GenreID>
+    <Country> Ireland                      </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>4</GroupID>
+    <GroupName> The Rolling Stones           </GroupName>
+    <GenreID>21</GenreID>
+    <Country> Ireland                      </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>5</GroupID>
+    <GroupName> Chuck Berry                  </GroupName>
+    <GenreID>22</GenreID>
+    <Country> Great Britain                </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>6</GroupID>
+    <GroupName> Jimi Hendrix                 </GroupName>
+    <GenreID>27</GenreID>
+    <Country> Ireland                      </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>7</GroupID>
+    <GroupName> James Brown                  </GroupName>
+    <GenreID>30</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>8</GroupID>
+    <GroupName> Little Richard               </GroupName>
+    <GenreID>13</GenreID>
+    <Country>  Jamaica                     </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>9</GroupID>
+    <GroupName> Aretha Franklin              </GroupName>
+    <GenreID>7</GenreID>
+    <Country> Japan                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>10</GroupID>
+    <GroupName> Ray Charles                  </GroupName>
+    <GenreID>10</GenreID>
+    <Country> Sweden                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>11</GroupID>
+    <GroupName> Bob Marley                   </GroupName>
+    <GenreID>7</GenreID>
+    <Country> Japan                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>12</GroupID>
+    <GroupName> The Beach Boys               </GroupName>
+    <GenreID>2</GenreID>
+    <Country> Japan                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>13</GroupID>
+    <GroupName> Buddy Holly                  </GroupName>
+    <GenreID>28</GenreID>
+    <Country> USA                          </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>15</GroupID>
+    <GroupName> Stevie Wonder                </GroupName>
+    <GenreID>34</GenreID>
+    <Country> Ireland                      </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>16</GroupID>
+    <GroupName> Sam Cooke                    </GroupName>
+    <GenreID>20</GenreID>
+    <Country> Sweden                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>17</GroupID>
+    <GroupName> Muddy Watters                </GroupName>
+    <GenreID>22</GenreID>
+    <Country> Japan                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>18</GroupID>
+    <GroupName> Marvin Gaye                  </GroupName>
+    <GenreID>30</GenreID>
+    <Country>  Jamaica                     </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>19</GroupID>
+    <GroupName> The Velvet Underground       </GroupName>
+    <GenreID>3</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>20</GroupID>
+    <GroupName> Bo Diddley                   </GroupName>
+    <GenreID>25</GenreID>
+    <Country> Ireland                      </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>21</GroupID>
+    <GroupName> Otis Redding                 </GroupName>
+    <GenreID>16</GenreID>
+    <Country> Canada                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>22</GroupID>
+    <GroupName> U2                           </GroupName>
+    <GenreID>24</GenreID>
+    <Country> Sweden                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>23</GroupID>
+    <GroupName> Bruce Springsteen            </GroupName>
+    <GenreID>3</GenreID>
+    <Country>  Jamaica                     </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>25</GroupID>
+    <GroupName> Fats Domino                  </GroupName>
+    <GenreID>16</GenreID>
+    <Country>  Jamaica                     </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>26</GroupID>
+    <GroupName> Ramones                      </GroupName>
+    <GenreID>21</GenreID>
+    <Country> Sweden                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>27</GroupID>
+    <GroupName> Nirvana                      </GroupName>
+    <GenreID>19</GenreID>
+    <Country>  Jamaica                     </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>28</GroupID>
+    <GroupName> Prince                       </GroupName>
+    <GenreID>19</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>29</GroupID>
+    <GroupName> The Who                      </GroupName>
+    <GenreID>25</GenreID>
+    <Country> Great Britain                </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>30</GroupID>
+    <GroupName> The Clash                    </GroupName>
+    <GenreID>3</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>31</GroupID>
+    <GroupName> Johnny Cash                  </GroupName>
+    <GenreID>34</GenreID>
+    <Country>  Jamaica                     </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>32</GroupID>
+    <GroupName> Smokey Robinson              </GroupName>
+    <GenreID>32</GenreID>
+    <Country> Great Britain                </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>33</GroupID>
+    <GroupName> The Everly Brothers          </GroupName>
+    <GenreID>5</GenreID>
+    <Country> Japan                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>34</GroupID>
+    <GroupName> Neil Young                   </GroupName>
+    <GenreID>5</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>35</GroupID>
+    <GroupName> Michael Jackson              </GroupName>
+    <GenreID>10</GenreID>
+    <Country> Sweden                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>36</GroupID>
+    <GroupName> Madonna                      </GroupName>
+    <GenreID>5</GenreID>
+    <Country>  Jamaica                     </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>37</GroupID>
+    <GroupName> Roy Orbison                  </GroupName>
+    <GenreID>8</GenreID>
+    <Country>  Jamaica                     </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>38</GroupID>
+    <GroupName> John Lennon                  </GroupName>
+    <GenreID>9</GenreID>
+    <Country> Ireland                      </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>39</GroupID>
+    <GroupName> David Bowie                  </GroupName>
+    <GenreID>31</GenreID>
+    <Country> Sweden                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>40</GroupID>
+    <GroupName> Simon and Garfunkel          </GroupName>
+    <GenreID>23</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>41</GroupID>
+    <GroupName> The Doors                    </GroupName>
+    <GenreID>1</GenreID>
+    <Country> Sweden                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>42</GroupID>
+    <GroupName> Van Morrison                 </GroupName>
+    <GenreID>31</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>43</GroupID>
+    <GroupName> Sly and the Family Stone     </GroupName>
+    <GenreID>33</GenreID>
+    <Country> Japan                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>44</GroupID>
+    <GroupName> Public Enemy                 </GroupName>
+    <GenreID>4</GenreID>
+    <Country> Ireland                      </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>45</GroupID>
+    <GroupName> The Byrds                    </GroupName>
+    <GenreID>23</GenreID>
+    <Country> Great Britain                </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>46</GroupID>
+    <GroupName> Janis Joplin                 </GroupName>
+    <GenreID>22</GenreID>
+    <Country> Japan                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>47</GroupID>
+    <GroupName> Patti Smith                  </GroupName>
+    <GenreID>17</GenreID>
+    <Country>  Jamaica                     </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>48</GroupID>
+    <GroupName> Run-DMC                      </GroupName>
+    <GenreID>12</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>49</GroupID>
+    <GroupName> Elton John                   </GroupName>
+    <GenreID>19</GenreID>
+    <Country> Canada                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>50</GroupID>
+    <GroupName> The Band                     </GroupName>
+    <GenreID>5</GenreID>
+    <Country> USA                          </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>51</GroupID>
+    <GroupName> Pink Floyd                   </GroupName>
+    <GenreID>14</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>52</GroupID>
+    <GroupName> Queen                        </GroupName>
+    <GenreID>13</GenreID>
+    <Country> Sweden                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>53</GroupID>
+    <GroupName> The Allman Brothers Band     </GroupName>
+    <GenreID>17</GenreID>
+    <Country> USA                          </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>54</GroupID>
+    <GroupName> Howlin' Wolf                 </GroupName>
+    <GenreID>15</GenreID>
+    <Country> Great Britain                </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>55</GroupID>
+    <GroupName> Eric Clapton                 </GroupName>
+    <GenreID>27</GenreID>
+    <Country> Ireland                      </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>56</GroupID>
+    <GroupName> Dr. Dre                      </GroupName>
+    <GenreID>33</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>57</GroupID>
+    <GroupName> The Grateful Dead            </GroupName>
+    <GenreID>24</GenreID>
+    <Country> Japan                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>58</GroupID>
+    <GroupName> Parliament/Funkadelic        </GroupName>
+    <GenreID>19</GenreID>
+    <Country> Japan                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>59</GroupID>
+    <GroupName> Aerosmith                    </GroupName>
+    <GenreID>7</GenreID>
+    <Country> Great Britain                </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>60</GroupID>
+    <GroupName> The Sex Pistols              </GroupName>
+    <GenreID>28</GenreID>
+    <Country> Ireland                      </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>61</GroupID>
+    <GroupName> Metallica                    </GroupName>
+    <GenreID>31</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>62</GroupID>
+    <GroupName> Joni Mitchell                </GroupName>
+    <GenreID>22</GenreID>
+    <Country> Sweden                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>63</GroupID>
+    <GroupName> Tina Turner                  </GroupName>
+    <GenreID>5</GenreID>
+    <Country>  Jamaica                     </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>64</GroupID>
+    <GroupName> Phil Spector                 </GroupName>
+    <GenreID>30</GenreID>
+    <Country> USA                          </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>66</GroupID>
+    <GroupName> Al Green                     </GroupName>
+    <GenreID>25</GenreID>
+    <Country>  Jamaica                     </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>67</GroupID>
+    <GroupName> Cream                        </GroupName>
+    <GenreID>14</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>68</GroupID>
+    <GroupName> The Temptations              </GroupName>
+    <GenreID>23</GenreID>
+    <Country> Japan                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>69</GroupID>
+    <GroupName> Jackie Wilson                </GroupName>
+    <GenreID>20</GenreID>
+    <Country> Japan                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>70</GroupID>
+    <GroupName> The Police                   </GroupName>
+    <GenreID>22</GenreID>
+    <Country>  Jamaica                     </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>71</GroupID>
+    <GroupName> Frank Zappa                  </GroupName>
+    <GenreID>9</GenreID>
+    <Country> USA                          </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>72</GroupID>
+    <GroupName> AC/DC                        </GroupName>
+    <GenreID>21</GenreID>
+    <Country> Great Britain                </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>74</GroupID>
+    <GroupName> Hank Williams                </GroupName>
+    <GenreID>33</GenreID>
+    <Country> Great Britain                </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>75</GroupID>
+    <GroupName> The Eagles                   </GroupName>
+    <GenreID>7</GenreID>
+    <Country>  Jamaica                     </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>76</GroupID>
+    <GroupName> The Shirelles                </GroupName>
+    <GenreID>32</GenreID>
+    <Country>  Jamaica                     </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>77</GroupID>
+    <GroupName> Beastie Boys                 </GroupName>
+    <GenreID>17</GenreID>
+    <Country> Japan                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>78</GroupID>
+    <GroupName> The Stooges                  </GroupName>
+    <GenreID>7</GenreID>
+    <Country> Great Britain                </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>79</GroupID>
+    <GroupName> The Four Tops                </GroupName>
+    <GenreID>16</GenreID>
+    <Country> Canada                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>80</GroupID>
+    <GroupName> Elvis Costello               </GroupName>
+    <GenreID>1</GenreID>
+    <Country> Sweden                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>81</GroupID>
+    <GroupName> The Drifters                 </GroupName>
+    <GenreID>5</GenreID>
+    <Country> Canada                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>82</GroupID>
+    <GroupName> Creedence Clearwater Revival </GroupName>
+    <GenreID>22</GenreID>
+    <Country> Ireland                      </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>83</GroupID>
+    <GroupName> Eminem                       </GroupName>
+    <GenreID>13</GenreID>
+    <Country> USA                          </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>84</GroupID>
+    <GroupName> James Taylor                 </GroupName>
+    <GenreID>17</GenreID>
+    <Country> Japan                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>85</GroupID>
+    <GroupName> Black Sabbath                </GroupName>
+    <GenreID>24</GenreID>
+    <Country> Canada                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>86</GroupID>
+    <GroupName> 2Pac                         </GroupName>
+    <GenreID>2</GenreID>
+    <Country> Japan                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>88</GroupID>
+    <GroupName> Jay-Z                        </GroupName>
+    <GenreID>5</GenreID>
+    <Country> Ireland                      </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>89</GroupID>
+    <GroupName> The Yardbirds                </GroupName>
+    <GenreID>2</GenreID>
+    <Country> Sweden                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>90</GroupID>
+    <GroupName> Carlos Santana               </GroupName>
+    <GenreID>27</GenreID>
+    <Country> USA                          </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>91</GroupID>
+    <GroupName> Tom Petty                    </GroupName>
+    <GenreID>13</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>92</GroupID>
+    <GroupName> Guns NТ Roses                </GroupName>
+    <GenreID>7</GenreID>
+    <Country> Ireland                      </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>93</GroupID>
+    <GroupName> Booker T. and the MGТs       </GroupName>
+    <GenreID>8</GenreID>
+    <Country> Canada                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>94</GroupID>
+    <GroupName> Nine Inch Nails              </GroupName>
+    <GenreID>16</GenreID>
+    <Country> Canada                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>95</GroupID>
+    <GroupName> Lynyrd Skynyrd               </GroupName>
+    <GenreID>13</GenreID>
+    <Country> USA                          </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>96</GroupID>
+    <GroupName> Diana Ross and the Supremes  </GroupName>
+    <GenreID>34</GenreID>
+    <Country> Japan                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>97</GroupID>
+    <GroupName> R.E.M.                       </GroupName>
+    <GenreID>17</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>98</GroupID>
+    <GroupName> Curtis Mayfield              </GroupName>
+    <GenreID>3</GenreID>
+    <Country> Sweden                       </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>99</GroupID>
+    <GroupName> Carl Perkins                 </GroupName>
+    <GenreID>33</GenreID>
+    <Country> Australia                    </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>100</GroupID>
+    <GroupName> Talking Heads                </GroupName>
+    <GenreID>1</GenreID>
+    <Country> Ireland                      </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>1000</GroupID>
+    <GroupName>Wow                           </GroupName>
+    <GenreID>35</GenreID>
+    <Country>Russia                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>1010</GroupID>
+    <GroupName>Wow                           </GroupName>
+    <GenreID>35</GenreID>
+    <Country>Russia                        </Country>
+  </GroupDB>
+  <GroupDB>
+    <GroupID>1011</GroupID>
+    <GroupName>One                           </GroupName>
+    <GenreID>17</GenreID>
+    <Country>Ireland                       </Country>
+  </GroupDB>
+</NewDataSet>
